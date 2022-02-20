@@ -3,7 +3,7 @@ import App from './App.vue';
 
 Vue.config.productionTip = false;
 
-console.log('hello vue-cli');
+console.log('hello another page');
 
 new Vue({
   render: (h) => h(App),
